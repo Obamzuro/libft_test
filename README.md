@@ -1,2 +1,2 @@
 # libft_test
-tests for libft
+tests for libft (first part)
